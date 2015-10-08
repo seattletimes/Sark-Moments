@@ -2,7 +2,7 @@
   {
     "title": "1",
     "order": "1",
-    "rank": "1",
+    "rank": "The good: 1",
     "order_2": "1",
     "image": "01Sark.jpg",
     "overlay": "right",
@@ -14,7 +14,7 @@
   {
     "title": "2",
     "order": "2",
-    "rank": "2",
+    "rank": "The good: 2",
     "order_2": "2",
     "image": "02Sark.jpg",
     "overlay": "left",
@@ -26,7 +26,7 @@
   {
     "title": "3",
     "order": "3",
-    "rank": "3",
+    "rank": "The good: 3",
     "order_2": "3",
     "image": "holidaybowlparalax.jpg",
     "overlay": "",
@@ -38,7 +38,7 @@
   {
     "title": "4",
     "order": "4",
-    "rank": "4",
+    "rank": "The good: 4",
     "order_2": "4",
     "image": "04Sark.jpg",
     "overlay": "left",
@@ -50,7 +50,7 @@
   {
     "title": "5",
     "order": "5",
-    "rank": "5",
+    "rank": "The good: 5",
     "order_2": "5",
     "image": "05Sark.jpg",
     "overlay": "right",
@@ -62,7 +62,7 @@
   {
     "title": "6",
     "order": "6",
-    "rank": "6",
+    "rank": "The bad: 1",
     "order_2": "1",
     "image": "06Sark.jpg",
     "overlay": "let",
@@ -74,7 +74,7 @@
   {
     "title": "7",
     "order": "7",
-    "rank": "7",
+    "rank": "The bad: 2",
     "order_2": "2",
     "image": "07Sark.jpg",
     "overlay": "right",
@@ -86,7 +86,7 @@
   {
     "title": "8",
     "order": "8",
-    "rank": "8",
+    "rank": "The bad: 3",
     "order_2": "3",
     "image": "08Sark.jpg",
     "overlay": "left",
@@ -98,7 +98,7 @@
   {
     "title": "9",
     "order": "9",
-    "rank": "9",
+    "rank": "The bad: 4",
     "order_2": "4",
     "image": "09Sark.jpg",
     "overlay": "right",
@@ -110,7 +110,7 @@
   {
     "title": "10",
     "order": "10",
-    "rank": "10",
+    "rank": "The bad: 5",
     "order_2": "5",
     "image": "10Sark.jpg",
     "overlay": "left",
